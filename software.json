@@ -1,0 +1,27 @@
+{
+  "windows": [
+    "7zip.7zip",
+    "AgileBits.1Password",
+    "Balena.Etcher",
+    "Brave.Brave",
+    "CoreyButler.NVMforWindows",
+    "Discord.Discord",
+    "Eugeny.Tabby",
+    "Git.Git",
+    "GitHub.GitHubDesktop",
+    "JanDeDobbeleer.OhMyPosh",
+    "Logitech.OptionsPlus",
+    "Microsoft.PowerToys",
+    "Microsoft.VisualStudioCode",
+    "Nilesoft.Shell",
+    "PrivateInternetAccess.PrivateInternetAccess",
+    "qBittorrent.qBittorrent",
+    "RustDesk.RustDesk",
+    "TechPowerUp.NVCleanstall",
+    "TheDocumentFoundation.LibreOffice",
+    "Valve.Steam",
+    "VideoLAN.VLC"
+  ],
+  "mac": ["fig", "nvm"],
+  "linux": ["nvm"]
+}
