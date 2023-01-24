@@ -1,0 +1,31 @@
+{
+  "custom-layouts": [
+    {
+      "uuid": "{485EFF4D-BAEE-4F0B-A83D-F2ECF8D002C2}",
+      "name": "Ultrawide",
+      "type": "grid",
+      "info": {
+        "rows": 1,
+        "columns": 3,
+        "rows-percentage": [
+          10000
+        ],
+        "columns-percentage": [
+          2500,
+          5000,
+          2500
+        ],
+        "cell-child-map": [
+          [
+            0,
+            1,
+            2
+          ]
+        ],
+        "show-spacing": false,
+        "spacing": 11,
+        "sensitivity-radius": 20
+      }
+    }
+  ]
+}
