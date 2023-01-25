@@ -9,6 +9,7 @@
     "Eugeny.Tabby",
     "Git.Git",
     "GitHub.GitHubDesktop",
+    "Insomnia.Insomnia",
     "JanDeDobbeleer.OhMyPosh",
     "Logitech.OptionsPlus",
     "Microsoft.PowerToys",
@@ -22,6 +23,24 @@
     "Valve.Steam",
     "VideoLAN.VLC"
   ],
-  "mac": ["fig", "nvm"],
+  "mac": [
+    "1password",
+    "battle-net",
+    "brave-browser",
+    "fig",
+    "github",
+    "insomnia",
+    "iterm2",
+    "libreoffice",
+    "nvm",
+    "oh-my-posh",
+    "openinterminal",
+    "private-internet-access",
+    "qbittorrent",
+    "rustdesk",
+    "steam",
+    "stremio",
+    "visual-studio-code"
+  ],
   "linux": ["nvm"]
 }
