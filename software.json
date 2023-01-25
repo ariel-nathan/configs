@@ -27,10 +27,8 @@
     "1password",
     "battle-net",
     "brave-browser",
-    "fig",
     "github",
     "insomnia",
-    "iterm2",
     "libreoffice",
     "nvm",
     "oh-my-posh",
@@ -40,7 +38,9 @@
     "rustdesk",
     "steam",
     "stremio",
-    "visual-studio-code"
+    "tabby",
+    "visual-studio-code",
+    "fig"
   ],
   "linux": ["nvm"]
 }
